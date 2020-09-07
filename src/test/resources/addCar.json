@@ -1,0 +1,7 @@
+{
+  "URL": "http://localhost:8080/addCar",
+  "method": "POST",
+  "requestBody": {
+    "name": "Ssd"
+  }
+}
